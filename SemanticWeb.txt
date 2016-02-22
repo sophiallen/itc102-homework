@@ -13,4 +13,5 @@ Theft / vandalism reporting.
 
 Health reporting for occupants - 
   heart rate sensors in steering wheel. Air sensors for O2 sat / blood glucose
-  and automatic contact to 911 for emergency
+
+Sense structural integrity of bridges, potholes in roads using gravity sensors. 
